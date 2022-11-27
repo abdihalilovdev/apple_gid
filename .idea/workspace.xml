@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da57181b-abe0-4895-9cfb-5b3b062515eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/air tretii.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/air1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/b44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/black4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nnaush.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro black.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pro5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/xsxsxs.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/xxxsss.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +89,8 @@
       <workItem from="1669355286054" duration="794000" />
       <workItem from="1669356928382" duration="1687000" />
       <workItem from="1669367673645" duration="496000" />
-      <workItem from="1669368201345" duration="1685000" />
+      <workItem from="1669368201345" duration="2269000" />
+      <workItem from="1669563331742" duration="1240000" />
     </task>
     <servers />
   </component>
